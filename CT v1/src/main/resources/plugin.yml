@@ -1,0 +1,8 @@
+name: CopyTroll
+version: '${project.version}'
+main: me.babajaan.copytroll.CopyTroll
+api-version: '1.20'
+commands:
+  copy:
+    description: Become a messaging copycat!
+    usage: /copy <playerName>
