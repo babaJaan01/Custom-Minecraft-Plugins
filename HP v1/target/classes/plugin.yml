@@ -1,0 +1,4 @@
+name: HaramPigs
+version: '1.0'
+main: me.babajaan.harampigs.HaramPigs
+api-version: '1.20'

@@ -1,0 +1,4 @@
+name: HaramPigs
+version: '${project.version}'
+main: me.babajaan.harampigs.HaramPigs
+api-version: '1.20'
