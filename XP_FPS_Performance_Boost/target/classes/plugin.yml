@@ -1,0 +1,4 @@
+name: XP_FR
+version: '1.0'
+main: me.babajaan.xp_fr.XP_FR
+api-version: '1.20'
